@@ -1,1 +1,1 @@
-# Shopify Theme Developements
+# Shopify Theme Developement
